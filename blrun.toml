@@ -1,5 +1,5 @@
-compiler = "g++ --std=c++20"
-path = "files"
-files = ["test.cpp"]
-extras = "-o run"
-run = "./run"
+compiler = "scalac"
+path = "test-files2"
+files = ["Main.scala"]
+extras = ""
+run = "scala --classpath files2 main.run"

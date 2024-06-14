@@ -1,8 +1,8 @@
 package main
 
 import (
-	"fmt"
 	"bufio"
+	"fmt"
 	"github.com/BurntSushi/toml"
 	"os"
 	"os/exec"
@@ -17,28 +17,27 @@ func main() {
 		fmt.Println("Error getting config file:", err)
 		return
 	}
-	fmt.Println(file)
-	// config, err := constructConfig(file)
-	// if err != nil {
-	// 	fmt.Println(err)
-	// 	return
-	// }
-	// execBuild(config)
+	config, err := constructConfig(file)
+	if err != nil {
+		fmt.Println(err)
+		return
+	}
+	execBuild(config)
+	execRun(config)
 }
 
-/*
-Steps:
-Checks for config file (probably toml again).
-	If no config file found:
-		Prompt for details.
-		Write config file in root dir.
-	Otherwise:
-		Parse config file.
-Construct build command.
-Construct run command.
-Execute build command.
-Execute run command.
-*/
+func execRun(config Config) {
+	command := config.Run
+	fmt.Println("Running:", command)
+	cmd := exec.Command("sh", "-c", command)
+	results, err := cmd.Output()
+	if err != nil {
+		fmt.Println("Error executing run command:", err)
+		return
+	}
+	fmt.Println(string(results))
+	fmt.Println("Project ran successfully!\nThank you for using blrun!")
+}
 
 func execBuild(config Config) {
 	command := constructBuildCmd(config)
@@ -75,9 +74,9 @@ func getMissingConfigFields() []string {
 	fmt.Println("What compiler would you like to use?")
 	compiler, _ := stdin.ReadString('\n')
 	compiler = strings.Trim(compiler, "\n")
-	
+
 	fmt.Println("What is the path from the root directory to where the files are located?")
-	fmt.Println("Please keep it blank if they are in the root directory.")
+	fmt.Println("(Keep blank for the root directory.)")
 	path, _ := stdin.ReadString('\n')
 	path = strings.Trim(path, "\n")
 
