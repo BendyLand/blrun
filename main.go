@@ -11,7 +11,6 @@ import (
 )
 
 func main() {
-	fmt.Println("Hi blrun!")
 	file, err := getConfigFile()
 	if err != nil {
 		fmt.Println("Error getting config file:", err)
@@ -36,7 +35,7 @@ func execRun(config Config) {
 		return
 	}
 	fmt.Println(string(results))
-	fmt.Println("Project ran successfully!\nThank you for using blrun!")
+	fmt.Println("Project ran successfully!")
 }
 
 func execBuild(config Config) {

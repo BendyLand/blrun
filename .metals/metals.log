@@ -43,3 +43,116 @@ WARNING: Unmatched cancel notification for request id 151
 2024.06.13 21:46:57 INFO  compiling blrun_f4dd477a3a (1 scala source)[0m
 2024.06.13 21:46:57 INFO  time: compiled blrun_f4dd477a3a in 0.18s[0m
 2024.06.13 21:48:03 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:16 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:17 WARN  No build server connected[0m
+2024.06.13 22:49:17 INFO  compiling blrun_f4dd477a3a (2 scala sources)[0m
+2024.06.13 22:49:17 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:17 INFO  time: compiled blrun_f4dd477a3a in 0.54s[0m
+2024.06.13 22:49:17 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:17 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:17 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:17 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:17 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:17 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:18 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:18 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:19 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:18 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:18 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:18 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:18 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:18 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:18 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:18 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:18 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:18 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:18 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:20 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:20 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:20 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:20 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:20 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:20 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:20 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:21 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:20 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:20 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:20 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:20 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:22 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:22 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:22 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:22 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:22 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:22 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:22 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:22 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:23 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:23 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:24 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:24 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:24 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:24 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:24 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:24 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:24 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:25 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:25 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:25 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:25 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:25 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:25 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:25 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:26 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:27 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:29 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:29 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:29 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:29 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:29 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:29 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:29 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:30 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:30 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:31 WARN  no build target for: /Users/benlandrette/ccode/bendyland/blrun/test-files2/Utils.scala[0m
+Jun 13, 2024 10:49:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 359
+2024.06.13 22:49:36 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:36 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:38 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:38 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:38 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:38 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:38 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:38 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:38 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:38 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:39 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:40 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:40 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:40 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:40 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:40 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:40 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:40 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:41 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:41 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:41 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:41 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:41 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:41 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:41 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:41 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:41 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:42 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:43 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:43 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:43 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:43 INFO  no build target found for /Users/benlandrette/ccode/bendyland/blrun/test-files2/Main.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.06.13 22:49:44 WARN  no build target for: /Users/benlandrette/ccode/bendyland/blrun/test-files2/Main.scala[0m
+2024.06.13 22:50:10 INFO  compiling blrun_f4dd477a3a (2 scala sources)[0m
+2024.06.13 22:50:10 INFO  time: compiled blrun_f4dd477a3a in 0.22s[0m
+2024.06.13 22:53:03 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.[0m
+2024.06.13 22:53:03 INFO  no build target found for /scala/Predef.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+Jun 13, 2024 10:53:05 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /var/folders/s5/ztlk0nc501b3582tqyg_kgl80000gn/T/fallback-service18116530770372392834/.metals/.reports/metals-full/2024-06-13/r_compiler-error_22-53-05-503.md

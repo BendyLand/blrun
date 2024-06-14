@@ -1,5 +1,5 @@
 compiler = "scalac"
 path = "test-files2"
-files = ["Main.scala"]
-extras = ""
-run = "scala --classpath files2 main.run"
+files = ["Main.scala", "Utils.scala"]
+extras = "-d test-files2/build"
+run = "scala -classpath test-files2/build main.run"
