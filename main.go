@@ -7,6 +7,7 @@ import (
 	"os"
 	"os/exec"
 	"path/filepath"
+	"regexp"
 	"strings"
 )
 
@@ -27,18 +28,27 @@ func main() {
 
 func execRun(config Config) {
 	command := config.Run
+	command = sanitize(command)
+	if !validateRunCommand(command) {
+		fmt.Println("Error: Invalid run command.")
+		os.Exit(1)
+	}
 	fmt.Println("Running:", command)
 	cmd := exec.Command("sh", "-c", command)
 	results, err := cmd.Output()
 	if err != nil {
 		fmt.Println("Error executing run command:", err)
-		return
+		os.Exit(1)
 	}
 	fmt.Println(string(results))
 	fmt.Println("Project ran successfully!")
 }
 
 func execBuild(config Config) {
+	if !validateCompiler(config) {
+		fmt.Println("Error: Invalid compiler.")
+		os.Exit(1)
+	}
 	command := constructBuildCmd(config)
 	fmt.Println("Running:", command)
 	cmd := exec.Command("sh", "-c", command)
@@ -153,4 +163,49 @@ func constructBuildCmd(config Config) string {
 	}
 	result += config.Extras
 	return result
+}
+
+func sanitize(command string) string {
+	var result []byte
+	validChars := regexp.MustCompile("[a-zA-Z0-9-+.-_/\\s]+")
+	result = validChars.Find([]byte(command))
+	return string(result)
+}
+
+func validateCompiler(config Config) bool {
+	validCompilers := []string{
+		"gcc",
+		"clang",
+		"g++",
+		"msvc",
+		"icc",
+		"scalac",
+		"rustc",
+		"javac",
+		"gc",
+		"gccgo",
+		"swiftc",
+		"fsc",
+		"csc",
+		"mcs",
+		"ghc",
+		"kotlinc",
+	}
+	for _, comp := range validCompilers {
+		if config.Compiler == comp {
+			return true
+		}
+	}
+	return false
+}
+
+func validateRunCommand(command string) bool {
+	validCompilers := []string{"./", "scala", "java", "dotnet"}
+	for _, comp := range validCompilers {
+		idx := strings.Index(command, comp)
+		if idx == 0 {
+			return true
+		}
+	}
+	return false
 }

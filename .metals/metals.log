@@ -156,3 +156,90 @@ WARNING: Unmatched cancel notification for request id 359
 2024.06.13 22:53:03 INFO  no build target found for /scala/Predef.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
 Jun 13, 2024 10:53:05 PM scala.meta.internal.pc.CompilerAccess handleError
 SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /var/folders/s5/ztlk0nc501b3582tqyg_kgl80000gn/T/fallback-service18116530770372392834/.metals/.reports/metals-full/2024-06-13/r_compiler-error_22-53-05-503.md
+2024.06.13 23:15:37 INFO  Shutting down server[0m
+2024.06.13 23:15:37 INFO  shutting down Metals[0m
+2024.06.13 23:15:37 INFO  Shut down connection with build server.[0m
+2024.06.13 23:15:37 INFO  Exiting server[0m
+2024.07.11 18:21:05 INFO  Started: Metals version 1.3.2 in folders '/Users/benlandrette/ccode/serious-projects/bendyland/blrun' for client Visual Studio Code 1.91.1.[0m
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@2f5cb4d0]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@56431e1a]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@2f5cb4d0]
+2024.07.11 18:21:06 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.[0m
+2024.07.11 18:21:06 WARN  no build tool detected in workspace '/Users/benlandrette/ccode/serious-projects/bendyland/blrun'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2024.07.11 18:21:06 WARN  Build server is not auto-connectable.[0m
+2024.07.11 18:30:07 INFO  Shutting down server[0m
+2024.07.11 18:30:07 INFO  shutting down Metals[0m
+2024.07.11 18:30:07 INFO  Exiting server[0m
+2024.07.30 11:25:04 INFO  Started: Metals version 1.3.2 in folders '/Users/benlandrette/ccode/serious-projects/bendyland/blrun' for client Visual Studio Code 1.91.1.[0m
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@52c47fff]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@2bbe3ab4]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@52c47fff]
+2024.07.30 11:25:05 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.[0m
+2024.07.30 11:25:05 WARN  no build tool detected in workspace '/Users/benlandrette/ccode/serious-projects/bendyland/blrun'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2024.07.30 11:25:05 WARN  Build server is not auto-connectable.[0m
+2024.07.30 11:25:19 INFO  Shutting down server[0m
+2024.07.30 11:25:19 INFO  shutting down Metals[0m
+2024.07.30 11:25:19 INFO  Exiting server[0m
+2024.07.30 11:33:19 INFO  Started: Metals version 1.3.2 in folders '/Users/benlandrette/ccode/serious-projects/bendyland/blrun' for client Visual Studio Code 1.91.1.[0m
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@64750a76]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@39f90cb2]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@64750a76]
+2024.07.30 11:33:19 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.[0m
+2024.07.30 11:33:19 WARN  no build tool detected in workspace '/Users/benlandrette/ccode/serious-projects/bendyland/blrun'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2024.07.30 11:33:20 WARN  Build server is not auto-connectable.[0m
+2024.07.30 12:03:34 INFO  Shutting down server[0m
+2024.07.30 12:03:34 INFO  shutting down Metals[0m
+2024.07.30 12:03:34 INFO  Exiting server[0m
+2024.07.30 12:27:52 INFO  Started: Metals version 1.3.2 in folders '/Users/benlandrette/ccode/serious-projects/bendyland/blrun' for client Visual Studio Code 1.91.1.[0m
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@2feecf54]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@179759d1]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@2feecf54]
+2024.07.30 12:27:53 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.[0m
+2024.07.30 12:27:53 WARN  no build tool detected in workspace '/Users/benlandrette/ccode/serious-projects/bendyland/blrun'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2024.07.30 12:27:53 WARN  Build server is not auto-connectable.[0m
+2024.07.30 12:28:48 INFO  Shutting down server[0m
+2024.07.30 12:28:48 INFO  shutting down Metals[0m
+2024.07.30 12:28:48 INFO  Exiting server[0m
+2024.07.30 12:29:03 INFO  Started: Metals version 1.3.2 in folders '/Users/benlandrette/ccode/serious-projects/bendyland/blrun' for client Visual Studio Code 1.91.1.[0m
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@9f0536e]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@6fc4ab0e]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@9f0536e]
+2024.07.30 12:29:04 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.[0m
+2024.07.30 12:29:04 WARN  no build tool detected in workspace '/Users/benlandrette/ccode/serious-projects/bendyland/blrun'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2024.07.30 12:29:04 WARN  Build server is not auto-connectable.[0m
+2024.07.30 12:29:08 INFO  Shutting down server[0m
+2024.07.30 12:29:08 INFO  shutting down Metals[0m
+2024.07.30 12:29:08 INFO  Exiting server[0m
+2024.07.30 12:57:22 INFO  Started: Metals version 1.3.2 in folders '/Users/benlandrette/ccode/serious-projects/bendyland/blrun' for client Visual Studio Code 1.91.1.[0m
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@601f166e]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@4ab4f4f7]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@601f166e]
+2024.07.30 12:57:23 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.[0m
+2024.07.30 12:57:23 WARN  no build tool detected in workspace '/Users/benlandrette/ccode/serious-projects/bendyland/blrun'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2024.07.30 12:57:23 WARN  Build server is not auto-connectable.[0m
+2024.07.30 14:53:38 INFO  Shutting down server[0m
+2024.07.30 14:53:38 INFO  shutting down Metals[0m
+2024.07.30 14:53:38 INFO  Exiting server[0m
+2024.09.02 19:07:43 INFO  Started: Metals version 1.3.5+63-9ba2829d-SNAPSHOT in folders '/Users/benlandrette/ccode/serious-projects/bendyland/blrun' for client Visual Studio Code 1.92.2.[0m
+2024.09.02 19:07:43 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.[0m
+2024.09.02 19:07:43 WARN  no build tool detected in workspace '/Users/benlandrette/ccode/serious-projects/bendyland/blrun'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2024.09.02 19:07:43 WARN  Build server is not auto-connectable.[0m
+2024.09.02 19:07:52 INFO  Shutting down server[0m
+2024.09.02 19:07:52 INFO  shutting down Metals[0m
+2024.09.02 19:07:52 INFO  Exiting server[0m
+2024.09.02 19:07:56 INFO  Started: Metals version 1.3.5+63-9ba2829d-SNAPSHOT in folders '/Users/benlandrette/ccode/serious-projects/bendyland/blrun' for client Visual Studio Code 1.92.2.[0m
+2024.09.02 19:07:57 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.[0m
+2024.09.02 19:07:57 WARN  no build tool detected in workspace '/Users/benlandrette/ccode/serious-projects/bendyland/blrun'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2024.09.02 19:07:57 WARN  Build server is not auto-connectable.[0m
